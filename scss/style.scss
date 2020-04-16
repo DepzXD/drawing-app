@@ -1,0 +1,42 @@
+$dark: #171717;
+$light: #F3F3F3;
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background: $light;
+  font-family: sans-serif;
+  h5 {
+    font-size: 14px;
+    padding: 0;
+    margin: 3px 0;
+    color: $light
+  }
+}
+
+#menu {
+	position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	width: auto;
+	background-color: $dark;
+	bottom:0px;
+	height:2.5em;
+  margin-left:40%;
+  margin-right: auto;
+  padding: 5px 10px;
+
+  section {
+    margin: 0 10px;
+    .color, .size, .clear {
+      cursor: pointer;
+    }
+  }
+  
+}
+input[type=number]::-webkit-inner-spin-button {
+  cursor: pointer;
+}

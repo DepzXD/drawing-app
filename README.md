@@ -1,4 +1,4 @@
-# drawing-app
+# Drawing-app
 
 drawing application clone it and use it no need to setup anything
 
@@ -7,6 +7,8 @@ drawing application clone it and use it no need to setup anything
  - **`SASS`**
  - **`JS`**
 
+*Demo*: https://purplecodepill.github.io/drawing-app/ 
+
 ![Drawing App Screenshot](draw.png)
 
-_**Note: **_ use hash code `#535353` for eraser for now
+_**Note:**_ use hash code `#535353` for eraser for now

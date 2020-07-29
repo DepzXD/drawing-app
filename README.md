@@ -7,7 +7,7 @@ drawing application clone it and use it no need to setup anything
  - **`SASS`**
  - **`JS`**
 
-*Demo*: https://purplecodepill.github.io/drawing-app/ 
+*Demo*: https://depzxd.github.io/drawing-app/
 
 ![Drawing App Screenshot](draw.png)
 
